@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Darius
-- 👀 I’m interested in web programming (HTML, CSS, JavaScript, Jquery Git & GitHub)
+- 👀 I practice web programming (HTML, CSS, JavaScript, jQuery, Git & GitHub)
 - 🌱 I’m currently learning JavaScript (Digging deeper).
 - 💞️ I’m looking to collaborate on small projects (on HTML, CSS, JavaScrit parts).
 - 📫 I am available on darionas@gmail.com.
