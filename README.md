@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Darius
 - 👀 I practice web programming (HTML, CSS, JavaScript, jQuery, Git & GitHub)
 - 🌱 I’m currently learning JavaScript (Digging deeper).
-- 💞️ I’m looking to collaborate on small projects (on HTML, CSS, JavaScrit parts).
+- 💞️ To gain practice I’m looking for collaboration on small projects as a frontend developer as unpaid volunteer.
 - 📫 I am available on darionas@gmail.com.
 
 <!---
